@@ -19,7 +19,7 @@
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem consequatur aliquid, odio dolor nemo corrupti sapiente sed excepturi esse aut soluta rerum voluptates recusandae alias possimus consequuntur. Corporis, in?</p>
       </div>
       <button className="button" onClick={() => setStart(true)}>
-        <p>Começar</p>
+        <p>START</p>
       </button>
     </div> 
     )
