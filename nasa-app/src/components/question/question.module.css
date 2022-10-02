@@ -4,8 +4,7 @@
     box-shadow: 1px;
     border: 1px;
     margin: 5px 30%;
-    background-color: aquamarine;
-    padding: 1fr;
+    background-color: #00FFC3;
   }
 
   .selectbox{
@@ -15,7 +14,7 @@
   }
 
   .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #00BA8D; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;

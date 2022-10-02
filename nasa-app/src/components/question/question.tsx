@@ -5,7 +5,9 @@ type Props = {
     setStart: (value: boolean) => void
     isStart?: boolean
 }
-  
+
+
+
   export const Question = ({
     setStart,
     isStart
@@ -18,7 +20,7 @@ type Props = {
         <QuestionElement/>
         <QuestionElement/>
 
-        <button className={styles.button}>SUBMIT</button>
+        <button className={styles.button} onClick={()=> {}}>SUBMIT</button>
     </div> 
     : <></>
     )

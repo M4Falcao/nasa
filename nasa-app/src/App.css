@@ -13,8 +13,19 @@
   }
 }
 
+.button {
+  background-color: #00BA8D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #00FFC3;
   min-height: 1vh;
   display: flex;
   flex-direction: column;

@@ -4,6 +4,8 @@ import './App.css';
 import { useEffect, useState } from 'react'
 import { Banner } from './components/banner/banner';
 import { Question } from './components/question/question';
+import logo2 from './logo2.png'
+
 
 function App() {
 

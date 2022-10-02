@@ -1,4 +1,5 @@
-  
+  import logo2 from '../../logo2.png'
+  import logo4 from '../../logo4.png'
   type Props = {
     setStart: (value: boolean) => void
     isStart?: boolean
@@ -14,10 +15,10 @@
     isStart? <></> : <div>
 
       <div className="banner">
-        <p font-size="34px"><span><strong>HABIT</strong></span>at</p>
+        <img src={logo4} alt="" />
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eos exercitationem consequatur aliquid, odio dolor nemo corrupti sapiente sed excepturi esse aut soluta rerum voluptates recusandae alias possimus consequuntur. Corporis, in?</p>
       </div>
-      <button background-color="black" color="white" onClick={() => setStart(true)}>
+      <button className="button" onClick={() => setStart(true)}>
         <p>Começar</p>
       </button>
     </div> 
