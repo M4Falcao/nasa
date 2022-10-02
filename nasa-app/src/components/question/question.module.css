@@ -1,0 +1,31 @@
+.question {
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 1px;
+    border: 1px;
+    margin: 5px 30%;
+    background-color: aquamarine;
+    padding: 1fr;
+  }
+
+  .selectbox{
+    font-size: 2fr;
+    margin: 5fr;
+    
+  }
+
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  
