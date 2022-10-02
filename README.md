@@ -7,7 +7,9 @@ In the future, the HABITat will be able to expose good examples of companies who
 
 
 how to: 
+
   npm i
+  
   npm run start
   
  
